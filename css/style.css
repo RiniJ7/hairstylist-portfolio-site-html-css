@@ -232,7 +232,7 @@ h1, h2, h3{
 }
 
 #insta{
-    background: linear-gradient(rgba(214, 200, 200, 0.5), rgba(201, 50, 50, 0.51)), url('../images/insta-pic.jpg') center/cover no-repeat fixed;
+    background: linear-gradient(rgba(228, 202, 202, 0.5), rgba(225, 167, 167, 0.51)), url('../images/insta-pic.jpg') center/cover no-repeat fixed;
     min-height: 65vh;
 }
 #insta .title h2{
